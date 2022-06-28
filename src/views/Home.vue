@@ -16,3 +16,10 @@ export default defineComponent({
   },
 })
 </script>
+
+<style scoped lang="scss">
+.home {
+  padding-top: 100px;
+  text-align: center;
+}
+</style>
